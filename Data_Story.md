@@ -34,3 +34,4 @@ As illustrated in the bar chart below, the main delay causes of United Airlines 
 ### For Airline Delays:
 * Understand whether the increase in June flight delays is due to higher flight traffic.
 * Determine whether crew availability is adjusted based on higher flight traffic. 
+* Deterine whether the airlines with the highest ratio of delays is due to the higher volume of flights and similarily if the opposite shows to be true for airline with smaller flight network .
