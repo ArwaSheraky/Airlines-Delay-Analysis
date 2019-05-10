@@ -5,18 +5,19 @@ A review of the data demonstrates the following:
 ![Months delays](./Charts/months_delays.png)
 
 - February has the highest number of cancelled flights, and the second month having delays.
-![Cancelled Flights](./Charts/cancellation_causes.png)
+![Cancelled Flights](./Charts/months_cancellations.png)
 
 ## What are the possible factors that affected these results?
 
 ### Delays in June. WHY?
-After analyzing and reviewing the delay causes provided in the dataset, **Late Aircraft** was the main cause of  delays in june 2015, with an average delay of `17.5 minutes`. The summary is illustrated in the chart below.
+After analyzing and reviewing the delay causes provided in the dataset, **Late Aircraft** was the main cause of  delays in june 2015, with an average delay of `17.6 minutes`. The summary is illustrated in the chart below.
 ![June Delays](./Charts/june_delay_reasons.png)
 
 ### Cancellation and Delays in February. WHY?
-![June Delays](./Charts/june_delay_reasons.png)
+![June Delays](./Charts/cancellation_causes.png)
 
-## How could we avoid these problems / take opportunities ?
+## How could we avoid these problems?
+
 ### For Aircrafts Delays:
 
 ### For Weather Delays and Cancellations:
