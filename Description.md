@@ -27,12 +27,12 @@ To explore and understand the data, different charts were generated as well as s
 
 ## Business Questions
 * Understand whether certain airports are better equipped to deal with extreme weather conditions and replicate this model at other airports.
-*Determine the ideal time frames (i.e. morning, afternoon or evening flights) for schedualing within the months in which we observed the highest number of flight cancellation and delays.
-*Optimize flight departure times based on ideal time frames.
-*Optimize flight ticket sales according to cancellation and delay likelihood.
-*Understand whether the increase in June flight delays is due to higher flight traffic.
-*Determine whether crew availability is adjusted based on higher flight traffic.
-*Deterine whether the airlines with the highest ratio of delays is due to the higher volume of flights and similarily if the opposite shows to be true for airline with smaller flight network . 
+* Determine the ideal time frames (i.e. morning, afternoon or evening flights) for schedualing within the months in which we observed the highest number of flight cancellation and delays.
+* Optimize flight departure times based on ideal time frames.
+* Optimize flight ticket sales according to cancellation and delay likelihood.
+* Understand whether the increase in June flight delays is due to higher flight traffic.
+* Determine whether crew availability is adjusted based on higher flight traffic.
+* Deterine whether the airlines with the highest ratio of delays is due to the higher volume of flights and similarily if the opposite shows to be true for airline with smaller flight network . 
 
 ## REFERENCES
 * [Dataset Source](https://www.kaggle.com/usdot/flight-delays#airlines.csv).
