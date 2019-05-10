@@ -16,16 +16,14 @@ A review of the data demonstrates the following:
 After analyzing and reviewing delay causes, **Late Aircraft** was the main cause of delays in june 2015, with an average delay of `17.6 minutes`. The summary is illustrated in the chart below.
 ![June Delays](./Charts/june_delay_reasons.png)
 
-### Cancellation and Delays in February. WHY?
+### Cancellation in February. WHY?
 ![Feb Delays and Cancellation](./Charts/cancellation_causes.png)
 
 ### High Delay Ratio of United Airlines. WHY?
-As illustrated in the bar chart below, the main delay causes of United Airlines are **Airline Delay** and **Late Aircraft**, with averages of `15 minutes` and `14.5 minutes`, respectively. In general, airline cancellations or delays are contollable which include  maintenance or crew issues, aircraft cleaning, baggage loading and fueling.
+As illustrated in the bar chart below, the main delay causes of United Airlines are **Airline Delay** and **Late Aircraft**, with averages of `15 minutes` and `14.5 minutes`, respectively. In general, airline cancellations or delays are contollable factors which include  maintenance or crew issues, aircraft cleaning, baggage loading and fueling.
 ![United Cancellation Reasons](./Charts/united_delay_reasons.png)
 
 ## How could we avoid these problems/take opportunities?
-
-### For Aircrafts Delays:
 
 ### For Weather Delays and Cancellations:
 * Understand whether certain airports are better equipped to deal with extreme weather conditions and replicate this model at other airports.
