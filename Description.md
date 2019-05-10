@@ -2,7 +2,8 @@
 
 ## ABOUT THE DATASET
 This 2015 dataset summarizes US airline flight delay and cancellation information as collected and published by the DOT's Bureau of Transportation Statistic. 
-Having two other related datasets, of airports and airlines information, helped making a new version of the dataset, including all related and useful attributes. The dataset is characterized now by 28 representative features and includes over a million instances. Features include airport origin, time of the flight (YMD), actual and scheduled departure times, arrival times, flight number, as well as cancellation and delation reason.
+
+Drawing airport and airline information from two additional datasets helped expand the original dataset by pulling from, and merging , relevant attributes. The dataset is now characterized by 28 representative features and includes over a million instances. Features include airport origin, time of the flight (YMD), actual and scheduled departure times, arrival times, flight number, as well as cancellation and delay reason.
 
 ## Attributes (28)
 ```
