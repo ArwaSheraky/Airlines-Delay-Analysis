@@ -30,7 +30,7 @@ To explore and understand the data, different charts were generated as well as s
     * Months X Delays ![Months and Delays](./Charts/months_delays.png)
     **Conclusion: February has the highest average delays among all months. Mostly because of the weather extreme conditions.**
     
-    * Airlines X Delays ![Airlines and Delays](./Charts/airlines_delays.png)
+    * Airlines X Delays ![Airlines and Delays](./Charts/airlines_delay.png)
     **Conslusion: United Airlines has the highest delay ratio. The chart below illustrates the possible factors causing the delay.**
     ![United Cancellation Reasons](./Charts/united_delay_reasons.png)
 
