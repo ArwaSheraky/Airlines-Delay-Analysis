@@ -20,23 +20,18 @@ To make the data more reliable, a cleaning phase was processed. This phase inclu
 To explore and understand the data, different charts were generated as well as some analysis, based on individual attributes or the correlation between multiple ones. We'll discuss and share some of them below.
 
 * Individual Variables:
-    * Arrival Delays
-    ![Arrival hist](./Charts/arrival.png)
-    * Departure Delays
-    ![Departure hist](./Charts/departure.png)
-    Conclusion: negative values means that some flights arrived / departed early than scheduled.
-    * Cancellation Reasons
-    ![Cancellation Causes](./Charts/cancellation_reasons.png)
-    Conclusion: Weather is the main reason of flights cancellation, causing `48538 flights` to be cancelled in 2015.
+    * Arrival Delays ![Arrival hist](./Charts/arrival.png)
+    * Departure Delays ![Departure hist](./Charts/departure.png)
+    **Conclusion: negative values means that some flights arrived / departed early than scheduled.**
+    * Cancellation Reasons ![Cancellation Causes](./Charts/cancellation_reasons.png)
+    **Conclusion: Weather is the main reason of flights cancellation, causing `48538 flights` to be cancelled in 2015.**
 
 * Multiple Variables:
-    * Months X Delays
-    ![Months and Delays](./Charts/months_delays.png)
-    Conclusion: February has the highest average delays among all months. Mostly because of the weather extreme conditions.
+    * Months X Delays ![Months and Delays](./Charts/months_delays.png)
+    **Conclusion: February has the highest average delays among all months. Mostly because of the weather extreme conditions.**
     
-    * Airlines X Delays
-    ![Airlines and Delays](./Charts/airlines_delays.png)
-    Conslusion: United Airlines has the highest delay ratio. The chart below illustrates the possible factors causing the delay.
+    * Airlines X Delays ![Airlines and Delays](./Charts/airlines_delays.png)
+    **Conslusion: United Airlines has the highest delay ratio. The chart below illustrates the possible factors causing the delay.**
     ![United Cancellation Reasons](./Charts/united_delay_reasons.png)
 
     * Airports X Delays
